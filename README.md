@@ -4,7 +4,7 @@ My first ever project idea!
 
 **Built 100% on mobile phone 📱**
 
-## 🌱 Timeline
+## ☘️ Timeline
 
 **V1: 25th Aug 2026 - The Beginning**
 - 6 lines - first time I opened TrebEdit
