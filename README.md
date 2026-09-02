@@ -1,26 +1,29 @@
 # 🍗 Goblin's Chicken - My First Brand Journey
 
-My first ever project idea! 
+My first ever brand! Built entirely on my mobile phone 📱
 
-**Built 100% on mobile phone 📱**
+This is where my first idea turned into a real website.
 
 ## ☘️ Timeline
 
 **V1: 25th Aug 2026 - The Beginning**
-- 6 lines - first time I opened TrebEdit
-- Located in my-first-code repo
+- My first 6 lines of code ever
+- Located in `my-first-code` repo
 
-**V2: 26th Aug 2026 (morning) - Single Page Complete**
-- Complete single page structure with styling and image
-- Located in this repo /v2
+**V2: 26th Aug 2026 (morning) - My First Complete Webpage! 🌟**
+- This was my FIRST full webpage — complete structure with styling and image
+- Built 100% on mobile using TrebEdit
+- I even ran it through an HTTP server and it worked! 
+- Located in this repo `/v2`
 
 **V3: 26th Aug 2026 (afternoon) - Multi-Page Magic**
-- Multi-page with navigation links (index + second.html)
-- Located in this repo /v3
+- Level up! Turned my first page into a multi-page site with navigation
+- `index.html` + `second.html` linked together
+- Located in this repo `/v3`
 
 ## 📁 What's Inside
-- `v2/` - Complete single page
-- `v3/` - Multi-page website
+- `v2/` - My first ever complete webpage
+- `v3/` - My first multi-page website
 
 ---
-Built with love, on mobile - Aug 2026 ❤️
+Built with pure HTML — no CSS, no JS. Just me and my phone. Aug 2026 ❤️
